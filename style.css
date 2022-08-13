@@ -4,3 +4,15 @@
 	text-align: center;
 }
 
+#number2 {
+	font-family: Georgia;
+}
+
+p {
+	font-family: Helvetica;
+}
+
+.odd {
+	background-color: rgb(255, 168, 230);
+	font-family: Verdana, DejaVu Sans, sans-serif;"
+}
