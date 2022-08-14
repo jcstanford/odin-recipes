@@ -17,3 +17,14 @@ p {
 	background-color: rgb(255, 168, 230);
 	font-family: Verdana, DejaVu Sans, sans-serif;"
 }
+
+.number3 {
+	font-size: 24px;
+}
+
+.number4 {
+	background-color: green; font-size: 24px; font-weight: bold;
+}
+
+
+
